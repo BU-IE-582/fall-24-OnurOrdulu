@@ -2,8 +2,8 @@
 
 I have uploaded my hw1 files to my repository under a folder called Files.
 
-Here is the html file I prepared: [hw1_html](https://bu-ie-582.github.io/fall-24-OnurOrdulu/hw1.html)
+Here is the html file I prepared: [hw1_html](https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Files/hw1.html)
 
-I also prepared a pdf to clrify some points: [hw1_pdf] (https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Files/HW1.pdf)
+I also prepared a pdf to clrify some points: [hw1_pdf](https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Files/HW1.pdf)
 
-R script is here: [hw1_R] (https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Files/hw1.R)
+R script is here: [hw1_R](https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Files/hw1.R)
