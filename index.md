@@ -7,3 +7,8 @@ Here is the html file I prepared: [hw1_html](https://bu-ie-582.github.io/fall-24
 I also prepared a pdf to clrify some points: [hw1_pdf](https://bu-ie-582.github.io/fall-24-OnurOrdulu/Files/HW1.pdf)
 
 R script is here: [hw1_R](https://bu-ie-582.github.io/fall-24-OnurOrdulu/Files/hw1.R)
+
+
+Here is the html file I prepared for HW2: [HW2_OnurOrdulu_html](https://bu-ie-582.github.io/fall-24-OnurOrdulu/Files/HW2_OnurOrdulu.html)
+
+R script is here: [HW2_OnurOrdulu_R](https://bu-ie-582.github.io/fall-24-OnurOrdulu/Files/HW2_OnurOrdulu.R)
