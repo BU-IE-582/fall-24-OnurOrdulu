@@ -20,6 +20,6 @@ Here is the html file for the project: [Project_OrduluTasYildirim](https://bu-ie
 
 Here is the pdf version of the report: [Project_pdf](https://bu-ie-582.github.io/fall-24-OnurOrdulu/Project/Project%20Report.pdf)
 
-You can find the R scripts here: [R_scripts](https://github.com/BU-IE-582/fall-24-OnurOrdulu/tree/main/Project)
+You can find the R scripts here: [R_scripts](https://github.com/BU-IE-582/fall-24-OnurOrdulu/tree/main/Project/Codes)
 
 Jupyter Notebook file is in here: [R_Project_Jupyter](https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Project/Project.ipynb)
