@@ -17,6 +17,9 @@ R script is here: [HW2_OnurOrdulu_R](https://bu-ie-582.github.io/fall-24-OnurOrd
 Below are the necessary links for the project prepared by Group 11 - Onur Ordulu, Ezgi Taş and Asu Naz Yıldırım
 
 Here is the html file for the project: [Project_OrduluTasYildirim](https://bu-ie-582.github.io/fall-24-OnurOrdulu/Project/Project.html)
-Here is the pdf version of the report: [Project_pdf](https://bu-ie-582.github.io/fall-24-OnurOrdulu/Project/ProjectReport.pdf)
+
+Here is the pdf version of the report: [Project_pdf](https://bu-ie-582.github.io/fall-24-OnurOrdulu/Project/Project%20Report.pdf)
+
 You can find the R scripts here: [R_scripts](https://github.com/BU-IE-582/fall-24-OnurOrdulu/tree/main/Project)
+
 Jupyter Notebook file is in here: [R Example Script](https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Project/Project.ipynb)
