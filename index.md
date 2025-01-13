@@ -22,4 +22,4 @@ Here is the pdf version of the report: [Project_pdf](https://bu-ie-582.github.io
 
 You can find the R scripts here: [R_scripts](https://github.com/BU-IE-582/fall-24-OnurOrdulu/tree/main/Project)
 
-Jupyter Notebook file is in here: [R Example Script](https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Project/Project.ipynb)
+Jupyter Notebook file is in here: [R Project_Jupyter](https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Project/Project.ipynb)
