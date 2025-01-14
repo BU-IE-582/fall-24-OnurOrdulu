@@ -23,3 +23,10 @@ Here is the pdf version of the report: [Project_pdf](https://bu-ie-582.github.io
 You can find the R scripts here: [R_scripts](https://github.com/BU-IE-582/fall-24-OnurOrdulu/tree/main/Project/Codes)
 
 Jupyter Notebook file is in here: [R_Project_Jupyter](https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Project/Project.ipynb)
+
+
+We have noticed a small error in html and .ipynb files regarding the project. Sorry for the slip-up. We kindly request the following files to be considered:
+
+Here is the corrected html file for the project: [Project_OrduluTasYildirim_Corrected](https://bu-ie-582.github.io/fall-24-OnurOrdulu/Project/Project_correct.html)
+
+Corrected Jupyter Notebook file is in here: [R_Project_Jupyter_Corrected](https://github.com/BU-IE-582/fall-24-OnurOrdulu/blob/main/Project/Project_correct.ipynb)
